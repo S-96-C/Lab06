@@ -11,6 +11,7 @@ using namespace std;
 	basicSal = pbasicSal;
 }*/
 
+//Implementation
 void Employee::InputDetails()
 {
 	cout << "Input Employee No :";
